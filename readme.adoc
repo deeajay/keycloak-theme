@@ -1,7 +1,7 @@
 [[theme-for-raincatcher-for-keycloak]]
-= Theme for Raincatcher for Keycloak
+= Responsive theme same as bootstrap
 
-image:https://cdn-images-1.medium.com/max/800/0*lMzC1bK4bQulI6GB.[raincatcher
+image:readmeImages/viewScreenShot.png[raincatcher
 theme]
 
 
